@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- divider used in activity_movie_details.xml -->
+    <color name="window_divider">#000000</color>
+
+    <!-- Yellow background and text -->
+    <color name="window_background">#FFEB3B</color>
+
+    <color name="dark_red">#D32F2F</color>
+
+    <color name="action_bar_red">#F44336</color>
+
+</resources>
