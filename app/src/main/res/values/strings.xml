@@ -1,11 +1,13 @@
 <resources>
+
+    <!-- API key has been removed for security.
+    Enter personal API key goes here! [CHAR LIMIT=NONE] -->
+    <string name="api_key">Insert your API Key here!</string>
+
     <string name="app_name">Red Carpet Movies</string>
 
     <!-- Title for movie details activity action bar[CHAR LIMIT=15] -->
     <string name="movie_details">Movie Details</string>
-
-    <!-- Personal API key goes here! [CHAR LIMIT=NONE] -->
-    <string name="api_key">Insert your API Key here!</string>
 
     <!-- Preference title for Most Popular movie option [CHAR LIMIT=15] -->
     <string name="sort_by_most_popular">Get Most Popular</string>
