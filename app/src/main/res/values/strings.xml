@@ -2,7 +2,7 @@
 
     <!-- API key has been removed for security.
     Enter personal API key goes here! [CHAR LIMIT=NONE] -->
-    <string name="api_key">Insert your API Key here!</string>
+    <string name="api_key">API Key goes here!</string>
 
     <string name="app_name">Red Carpet Movies</string>
 
